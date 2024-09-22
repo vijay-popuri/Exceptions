@@ -38,5 +38,7 @@ public class SingleTryMultipleCatches {
 		}
 		System.out.println("Connecction get terminated....!");
 	}
+	
 
+	//Here for each error corresponding catch block gets executed if not final catch executes
 }
